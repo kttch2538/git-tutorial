@@ -1,1 +1,2 @@
 text1 >> first commit
+text2 >> second commit
