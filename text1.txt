@@ -1,4 +1,8 @@
 Version Control with GIT1
 -Update file to test github
 -Update file to local from github
+<<<<<<< HEAD
 -This is myfile.
+=======
+-Bla Bla Bal
+>>>>>>> 259081754d836f7ae31545de939e153abefc9483
