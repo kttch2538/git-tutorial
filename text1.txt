@@ -1,3 +1,2 @@
-text1 >> first commit
-text2 >> second commit
-text3 >> third commit
+Version Control with GIT1
+-Update file to test github
